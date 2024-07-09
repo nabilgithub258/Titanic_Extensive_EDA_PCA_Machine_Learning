@@ -43,8 +43,8 @@ In addition to Linear Regression and Boosting, we explore other machine learning
 
 ## Conclusion
 
-Our model did good while pretending the target column survived, we first did with Logistic classifier then added more tuning and then finally got the best we could with KNN while accuracy being 0.81.
+Our model performed well in predicting the survival of passengers, starting with a Logistic Regression classifier. After further tuning, we achieved our best results using a K-Nearest Neighbors (KNN) model, with an accuracy of 0.81.
 
-But then we went into making the linear model and predicting the fare of people who boarded the ship, although this dataset is not a good fit for that model and prediction but we wanted to challenge ourself and to be honest it didn't product a good model.
+We then challenged ourselves by creating a linear model to predict the fare of passengers. Despite the dataset not being ideally suited for this task, we pursued this approach to test our skills. However, the resulting model did not perform well.
 
-We had our RMSE of 31 pounds which considering everything is quite a major difference, if anybody knows how to reduce the RMSE please chip in.
+Our model's Root Mean Squared Error (RMSE) for fare prediction was 31 pounds, indicating a significant discrepancy. If anyone has suggestions on how to reduce the RMSE, we welcome your input.
