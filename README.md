@@ -1,6 +1,4 @@
-Sure! Here's a README file for your GitHub repository:
 
----
 
 # Titanic Dataset Analysis and Modeling
 
